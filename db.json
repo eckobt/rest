@@ -1,6 +1,10 @@
 {
   "user": [
-    { "id": 1, "firstName": "json-server", "lastName": "typicode" }
+    { "id": 1, "firstName": "json-server", "lastName": "typicode" },
+    { "id": 1, "firstName": 'Dhiraj', "lastName": 'Ray', "email": 'zxzc@gmail.com'},
+     {"id":: 1, "firstName": 'Tom', "lastName": 'Jac', "email":  'Tom@gmail.com'},
+     {"id":: 1, "firstName": 'Hary', "lastName": 'Pan', "email":  'hary@gmail.com'},
+     {"id":: 1, "firstName": 'praks', "lastName": 'pb', "email":  'praks@gmail.com'
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
