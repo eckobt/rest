@@ -1,0 +1,47 @@
+{
+  "card": [
+    {
+      "id": 1,
+      "creditCardNumber": "6480195344642780",
+      "cardholder" : "John Lex",
+      "expirationDate" : "2020-12",
+      "securityCode" : "567",
+      "amount" : "90"
+    },
+    {
+      "id": 2,
+      "creditCardNumber": "30295201231669",
+      "cardholder" : "Elizabeth Lopez",
+      "expirationDate" : "2020-11",
+      "securityCode" : "567",
+      "amount" : "90"
+    },
+    {
+      "id": 3,
+      "creditCardNumber": "3583387923333630",
+      "cardholder" : "Billy O Bell",
+      "expirationDate" : "2022-04",
+      "securityCode" : "567",
+      "amount" : "90"
+    },
+    {
+      "id": 4,
+      "creditCardNumber": "5198993763507510",
+      "cardholder" : "Sandra H Adams",
+      "expirationDate" : "2022-05",
+      "securityCode" : "567",
+      "amount" : "90"
+    },
+    {
+      "id": 5,
+      "creditCardNumber": "4381079728309630",
+      "cardholder" : "Helen R Lucas`",
+      "expirationDate" : "2020-10",
+      "securityCode" : "567",
+      "amount" : "90"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
